@@ -1,6 +1,5 @@
 *{
 	font-family: 'Concert One', cursive;
-	box-sizing:border-box
 }
 /*start navbar*/
 .bg-light{
@@ -62,8 +61,6 @@
 }
 .slider .carousel-inner .hed button {
 	margin-top: 15px;
-    background-color: :#f800000;
-    background: none;
     background-color: #f80000;
     color: #fff;
     font-size: 25px;
@@ -157,8 +154,6 @@
 }
 .about2 button{
 	margin-top: 15px;
-    background-color: :#f800000;
-    background: none;
     background-color: #f80000;
     color: #fff;
     font-size: 25px;
@@ -278,7 +273,7 @@
 }
 .blog .row .card-body a{
 	background:#f80000;
-	color:#fff
+	color:#fff;
 }
 /*end blog*/
 
@@ -395,6 +390,7 @@
 }
 .Pricing .card:hover .card-body a{
 	background:#f80000;
+	padding-bottom: 7px;
 }
 /*end Pricing*/
 
@@ -424,7 +420,8 @@
     font-size: 18px;
     font-weight: bold;
     margin-top: -6px;
-    margin-left: -10px
+    margin-left: -10px;
+
 }
 .footer .row .col3{
 	margin-bottom:22px;
@@ -449,7 +446,8 @@
 	
 }
 .footer .row .con2 li a{
-	margin-left:5px
+	margin-left:5px;
+	padding-bottom: 7px;
 }
 /*end footer*/
 
@@ -486,6 +484,7 @@
 	-moz-transition:0.7s;
 	-o-transition:0.7s;
 	transition:0.7s;
+	padding-bottom: 7px;
 }
 .copyright div ul li:nth-of-type(1) a{
 	background:#1877f2
