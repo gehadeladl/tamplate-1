@@ -61,8 +61,7 @@
 }
 .slider .carousel-inner .hed button {
 	margin-top: 15px;
-    background-color: #f80000;
-    color: #fff;
+    color: #f80000;
     font-size: 25px;
     border: none;
     cursor: pointer;
@@ -71,12 +70,6 @@
     -moz-transition:0.7s;
     -o-transition:0.7s;
      transition:0.7s;
-    padding-bottom:7px;	
-}
-.slider .carousel-inner .hed button:hover{
-	background:#fff;
-	color:#f80000;
-	border:1px solid #f80000
 }
 .slider .carousel-inner .overlay{
 	position:absolute;
