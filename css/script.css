@@ -71,7 +71,7 @@
     -moz-transition:0.7s;
     -o-transition:0.7s;
      transition:0.7s;
-    padding-bottom:0.7px;	
+    padding-bottom:7px;	
 }
 .slider .carousel-inner .hed button:hover{
 	background:#fff;
