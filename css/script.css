@@ -67,10 +67,11 @@
     border: none;
     cursor: pointer;
     border:1px solid #f80000;
-	-webkit-transition:0.7s;
-	-moz-transition:0.7s;
-	-o-transition:0.7s;
-	transition:0.7s;
+    -webkit-transition:0.7s;
+    -moz-transition:0.7s;
+    -o-transition:0.7s;
+     transition:0.7s;
+    padding-bottom:0.7px;	
 }
 .slider .carousel-inner .hed button:hover{
 	background:#fff;
@@ -164,6 +165,7 @@
 	-moz-transition:0.7s;
 	-o-transition:0.7s;
 	transition:0.7s;
+   padding-bottom:5px;
 }
 .about2 button:hover{
 	background:#fff;
@@ -274,6 +276,7 @@
 .blog .row .card-body a{
 	background:#f80000;
 	color:#fff;
+	padding-bottom:9px
 }
 /*end blog*/
 
@@ -381,12 +384,13 @@
 }
 .Pricing .card .card-body a{
 	background: #000;
-    color: #fff;
+	color: #fff;
 	margin:15px;
 	-webkit-transition:0.8s;
-	 -moz-transition:0.8s;
-	 -o-transition:0.8s;
-	 transition:0.8s
+	-moz-transition:0.8s;
+	-o-transition:0.8s;
+	transition:0.8s;
+	padding-bottom:8px
 }
 .Pricing .card:hover .card-body a{
 	background:#f80000;
@@ -484,7 +488,7 @@
 	-moz-transition:0.7s;
 	-o-transition:0.7s;
 	transition:0.7s;
-	padding-bottom: 7px;
+	padding-bottom: 15px;
 }
 .copyright div ul li:nth-of-type(1) a{
 	background:#1877f2
